@@ -1,6 +1,3 @@
-# ----------------------------------------------------------------------------------------------------------------------
-# Задание выполнено студентом (Leonids Jofe) из школы SkillFactory, курс Full-stack python developer, класс FPW-104
-# ----------------------------------------------------------------------------------------------------------------------
 from django.contrib.auth.models import User
 from django.db import models
 from django.db.models import Sum
